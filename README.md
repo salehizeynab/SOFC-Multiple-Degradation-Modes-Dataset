@@ -1,0 +1,1 @@
+Run-to-failure degradation dataset from 12 tubular SOFCs subjected to redox cycling, fuel starvation, short circuit, and thermal shock. The dataset includes periodic EIS spectra and J–V polarization curves from initial characterization to end-of-life.
